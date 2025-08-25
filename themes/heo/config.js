@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到MaoSu机场博客', url: 'https://blog.tangly1024.com' },
+    { title: '让全球连接没有界限', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,14 +18,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: 'Maosu VPN 卖点',
+  HEO_HERO_TITLE_2: '🔒 安全加密
+全流量加密传输，保护隐私安全，拒绝数据泄露。',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '⚡ 高速稳定
+多国节点覆盖，IEPL 专线低延迟，观影/办公/直播畅快无阻。',
+  HEO_HERO_TITLE_5: '🌍 全球解锁
+支持 ChatGPT、YouTube、Netflix、TikTok、Spotify 等全球热门应用。',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '立即加入 Maosu VPN，畅享真正自由的网络世界',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
